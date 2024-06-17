@@ -1,0 +1,7 @@
+newsapi-python
+pdfkit
+python-dotenv
+tqdm
+streamlit
+streamlit-tags
+pyppeteer
